@@ -1,4 +1,4 @@
 Factorizer
 ==========
 
-Computes prime factors of a natural number
+Prime factors of a natural number
